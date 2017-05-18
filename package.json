@@ -1,0 +1,12 @@
+{
+  "name": "minification-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babili": "^0.0.12",
+    "google-closure-compiler": "^20170423.0.0",
+    "uglify-es": "^3.0.7",
+    "uglify-js": "^3.0.7"
+  }
+}
